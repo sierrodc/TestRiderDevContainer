@@ -1,0 +1,6 @@
+﻿{
+  "name": "TestRiderDevContainer",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:latest",
+  // "build": { "dockerfile": "Dockerfile" },
+  "forwardPorts": [3000]
+}
